@@ -33,7 +33,7 @@ const features = [
     <section class="hero" aria-labelledby="hero-title">
       <div class="hero-copy">
         <p class="eyebrow">Vue 3 starter project</p>
-        <h1 id="hero-title">王秋雨</h1>
+        <h1 id="hero-title">王秋雨1</h1>
         <p class="hero-text">
           This project now has a polished first screen with clear hierarchy, useful sections, and a
           calm visual system you can extend without fighting the template.
